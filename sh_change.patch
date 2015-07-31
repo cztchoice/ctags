@@ -1,0 +1,30 @@
+diff --git a/docs/generate_docs.sh b/docs/generate_docs.sh
+index 436ccf4..bcb3497 100755
+--- a/docs/generate_docs.sh
++++ b/docs/generate_docs.sh
+@@ -1,4 +1,6 @@
+ #!/bin/bash
++FORMAT=$1
++NAME=universal-ctags
+ #set -o errexit
+ set -o nounset
+
+@@ -21,12 +23,12 @@ sed -i 's/\(.. include:: .*.rst\)/\1\n.. raw:: pdf\n\n   PageBreak oneColumn/g'
+ #add raw::pdf and PageBreak after content with a blank line
+ sed -i 's/\(.. section-numbering::\)/\1\n\n.. raw:: pdf\n\n   PageBreak oneColumn/g' readme.rst
+
+-if [[ $1 = "pdf" ]]; then
+-  rst2pdf readme.rst universal-ctags.pdf -e inkscape
+-  mv universal-ctags.pdf ${CURDIR}
+-elif [[ $1 = "html" ]]; then
+-  rst2html.py readme.rst universal-ctags.html
+-  mv universal-ctags.html ${CURDIR}
++if [[ $FORMAT = "pdf" ]]; then
++  rst2pdf readme.rst ${NAME}.pdf -e inkscape
++  mv ${NAME}.pdf ${CURDIR}
++elif [[ $FORMAT = "html" ]]; then
++  rst2html readme.rst ${NAME}.html
++  mv ${NAME}.html ${CURDIR}
+ fi
+
+ popd

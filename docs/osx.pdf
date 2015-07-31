@@ -1,0 +1,287 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (mailto:me@cweagans.net) >> /Border [ 0 0 0 ] /Rect [ 240.1623 719.0236 325.9023 731.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (http://stackoverflow.com/a/9329325) >> /Border [ 0 0 0 ] /Rect [ 187.9548 552.6772 348.5028 564.6772 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /A << /S /URI /Type /Action /URI (http://brew.sh/) >> /Border [ 0 0 0 ] /Rect [ 117.4214 402.6772 180.2314 414.6772 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/universal-ctags/homebrew-universal-ctags) >> /Border [ 0 0 0 ] /Rect [ 62.69291 271.4772 331.6729 283.4772 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /Annots [ 4 0 R 7 0 R 8 0 R 9 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+11 0 obj
+<< /Outlines 13 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 19 0 R /Type /Catalog >>
+endobj
+12 0 obj
+<< /Author () /CreationDate (D:20150714110343-08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Building on Mac OS) >>
+endobj
+13 0 obj
+<< /Count 6 /First 14 0 R /Last 18 0 R /Type /Outlines >>
+endobj
+14 0 obj
+<< /Count 2 /Dest [ 10 0 R /XYZ 62.69291 645.6772 0 ] /First 15 0 R /Last 16 0 R /Next 17 0 R /Parent 13 0 R 
+  /Title (Build Prerequisites) >>
+endobj
+15 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 486.6772 0 ] /Next 16 0 R /Parent 14 0 R /Title (Building Manually \(i.e. for development\)) >>
+endobj
+16 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 438.6772 0 ] /Parent 14 0 R /Prev 15 0 R /Title (Building with Homebrew) >>
+endobj
+17 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 259.4772 0 ] /Next 18 0 R /Parent 13 0 R /Prev 14 0 R /Title (Differences between OSX and GNU/Linux) >>
+endobj
+18 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 154.4772 0 ] /Parent 13 0 R /Prev 17 0 R /Title (Contributing) >>
+endobj
+19 0 obj
+<< /Count 1 /Kids [ 10 0 R ] /Type /Pages >>
+endobj
+20 0 obj
+<< /Length 5548 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 140.4849 0 Td (Building on Mac OS) Tj T* -140.4849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 19.69937 0 Td (Maintainer:) Tj T* -19.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Cameron Eagans <) Tj 0 0 .501961 rg (me@cweagans.net) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 687.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 657.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .460651 Tw (This part of the documentation is written by Cameron Eagans, a co-maintainer of universal-ctags and the) Tj T* 0 Tw (maintainer of the OSX packaging of this project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.6772 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Build Prerequisites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 594.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .221235 Tw (Building ctags on OSX should be no different than building on GNU/Linux. The same toolchains are used,) Tj T* 0 Tw (and the Mac OS packaging scripts use autotools and make \(as you'd expect\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 540.6772 cm
+q
+BT 1 0 0 1 0 38 Tm .732927 Tw 12 TL /F1 10 Tf 0 0 0 rg (You may need to install the xcode command line tools. You can install the entire xcode distribution from) Tj T* 0 Tw .527633 Tw (the App Store, or for a lighter install, you can simply run ) Tj /F3 10 Tf 0 0 0 rg (xcode-select) Tj ( ) Tj (--install ) Tj /F1 10 Tf 0 0 0 rg (to ) Tj /F4 10 Tf (only ) Tj /F1 10 Tf (install the) Tj T* 0 Tw 3.247976 Tw (compilers and such. See ) Tj 0 0 .501961 rg (http://stackoverflow.com/a/9329325 ) Tj 0 0 0 rg (for more information. Once your build) Tj T* 0 Tw (toolchain is installed, proceed to the next section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.999036 Tw (At this point, if you'd like to build from an IDE, you'll have to figure it out. Building ctags is a pretty) Tj T* 0 Tw .163318 Tw (straightforward process that matches many other projects and most decent IDEs should be able to handle) Tj T* 0 Tw (it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 468.6772 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Building Manually \(i.e. for development\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can simply run the build instructions in README.md.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.6772 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Building with Homebrew) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.6772 cm
+q
+BT 1 0 0 1 0 14 Tm .278443 Tw 12 TL /F1 10 Tf 0 0 0 rg (Homebrew \() Tj 0 0 .501961 rg (http://brew.sh/) Tj 0 0 0 rg (\) is the preferred method for installing Universal Ctags for end users. Currently,) Tj T* 0 Tw (the process for installing with Homebrew looks like this:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.4772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (brew tap universal-ctags/universal-ctags) Tj T* (brew install --HEAD universal-ctags) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 301.4772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .535984 Tw (Eventually, we hope to move the universal-ctags formula to the main Homebrew repository, but since we) Tj T* 0 Tw .328221 Tw (don't have any tagged releases at this point, it's a head-only formula and wouldn't be accepted. When we) Tj T* 0 Tw (have a tagged release, we'll submit a PR to Homebrew.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 271.4772 cm
+q
+BT 1 0 0 1 0 14 Tm 8.17784 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you'd like to help with the Homebrew formula, you can find the repository here:) Tj T* 0 Tw 0 0 .501961 rg (https://github.com/universal-ctags/homebrew-universal-ctags) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 238.4772 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Differences between OSX and GNU/Linux) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 220.4772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There other things where building ctags on OSX differs from building on GNU/Linux.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 214.4772 cm
+Q
+q
+1 0 0 1 62.69291 214.4772 cm
+Q
+q
+1 0 0 1 62.69291 166.4772 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .778555 Tw (Filenames on HFS+ \(the Mac OS filesystem\) are case-preserving, but not case-sensitive in 99% of) Tj T* 0 Tw .644985 Tw (configurations. If a user manually formats their disk with a case sensitive version of HFS+, then the) Tj T* 0 Tw .485318 Tw (filesystem will behave like normal GNU/Linux systems. Depending on users doing this is not a good) Tj T* 0 Tw (thing.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 166.4772 cm
+Q
+q
+1 0 0 1 62.69291 133.4772 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contributing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.4772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .463876 Tw (This documentation is very much a work in progress. If you'd like to contribute, submit a PR and mention) Tj T* 0 Tw (@cweagans for review.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+21 0 obj
+<< /Nums [ 0 22 0 R ] >>
+endobj
+22 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 23
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000541 00000 n
+0000000649 00000 n
+0000000767 00000 n
+0000000956 00000 n
+0000001126 00000 n
+0000001340 00000 n
+0000001586 00000 n
+0000001695 00000 n
+0000001924 00000 n
+0000002001 00000 n
+0000002165 00000 n
+0000002312 00000 n
+0000002439 00000 n
+0000002594 00000 n
+0000002711 00000 n
+0000002775 00000 n
+0000008380 00000 n
+0000008424 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(<.y\\\255C Du*\334{\201\230\035\344) (<.y\\\255C Du*\334{\201\230\035\344)]
+ /Info 12 0 R /Root 11 0 R /Size 23 >>
+startxref
+8461
+%%EOF

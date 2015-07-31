@@ -32,14 +32,33 @@ pushd ${TEMPDIR}
 
 #translate rst link to include
 for rst_file in *.rst; do
+  # replace
+  # `Link text <{name}.rst>`_
+  # with
+  # .. include :: {name}.rst
   sed -i 's/^`.*<\(.*.rst\)>`_$/.. include:: \1/g' ${rst_file}
 done
 
-#add raw::pdf and PageBreak oneColumn after each section
-sed -i 's/\(.. include:: .*.rst\)/\1\n.. raw:: pdf\n\n   PageBreak oneColumn/g' readme.rst
+# add raw::pdf and PageBreak oneColumn after each section
+# do replace
+# .. include:: {name}.rst
+# with
+# .. include:: {name}.rst
+# .. raw:: pdf
+#
+#    PageBreak oneColumn
+sed -i 's/^\(.. include:: .*.rst\)$/\1\n.. raw:: pdf\n\n   PageBreak oneColumn/g' readme.rst
 
 #add raw::pdf and PageBreak after content with a blank line
-sed -i 's/\(.. section-numbering::\)/\1\n\n.. raw:: pdf\n\n   PageBreak oneColumn/g' readme.rst
+# do replace(the '#' should be ignored)
+# .. section-numbering::
+# with
+# .. section-numbering::
+#
+# .. raw:: pdf
+#
+#    PageBreak oneColumn
+sed -i 's/^\(.. section-numbering::\)$/\1\n\n.. raw:: pdf\n\n   PageBreak oneColumn/g' readme.rst
 
 if [[ $FORMAT = "pdf" ]]; then
   rst2pdf readme.rst ${NAME}.pdf -e inkscape
